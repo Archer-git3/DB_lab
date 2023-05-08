@@ -1,0 +1,13 @@
+merge_dataframe_from_csv_files
+time:485.95
+
+create_table
+time:7.96
+
+load_dataframe_to_postgresql
+time:314.27
+
+load_dataframe_to_postgresql
+time:100.2
+
+main(): 908.3874003887177 seconds
